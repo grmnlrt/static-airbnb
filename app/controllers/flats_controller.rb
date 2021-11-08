@@ -18,7 +18,8 @@ class FlatsController < ApplicationController
   end
 end
 
-# First version of FlatsController 👇
+# #######################################
+# First version of the FlatsController 👇
 # require "open-uri"
 
 # class FlatsController < ApplicationController
